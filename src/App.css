@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(162, 162, 181);
+}
+.me{
+  margin-top: 15px;
+  margin-left: 500px;
+  align-content: center;
+  font-size: 2em;
+  
+}
+.name{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:xx-large;
+  color:crimson;
+}
+.adress{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+  color: rgb(225, 31, 70);
+}
+
